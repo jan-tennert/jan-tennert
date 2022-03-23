@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jan</h1>
 <h3 align="center">A programmer from Germany</h3>
 
-- 🔭 I’m currently working on [DiscordKM](https://github.com/jan-tennert/DiscordKM)
+- 🔭 I’m currently working on [DiscordKM](https://github.com/jan-tennert/DiscordKM) and [RedisKM](https://github.com/jan-tennert/RedisKM)
 
 - 🌱 I’m currently learning **Unreal Engine 5**
 
