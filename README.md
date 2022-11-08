@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jan</h1>
 <h3 align="center">A programmer from Germany</h3>
 
-- 🔭 I’m currently working on [Supacompose](https://github.com/jan-tennert/Supacompose)
+- 🔭 I’m currently working on [supabase-kt](https://github.com/supabase-community/supabase-kt)
 
-- 🌱 I’m currently learning **Unreal Engine 5**
+<!--- 🌱 I’m currently learning **Unreal Engine 5**--->
 
 - 👨‍💻 All of my projects are available at [https://github.com/jan-tennert](https://github.com/jan-tennert)
 
