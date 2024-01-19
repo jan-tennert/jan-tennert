@@ -17,5 +17,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jan-tennert&show_icons=true&locale=en&layout=compact" alt="jan-tennert" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jan-tennert&show_icons=true&locale=en" alt="jan-tennert" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jan-tennert&show_icons=true&locale=en&theme=transparent" alt="jan-tennert" /></p>
 
