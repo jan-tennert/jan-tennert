@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jan-tennert](https://github.com/jan-tennert)
 
-- 📫 How to reach me **jan.m.tennert@gmail.com**
+- 📫 How to reach me **jan.m.tennert@gmail.com** or via **[X](https://x.com/TheRealJanGER)**
 
 - 🎁 Support me: https://ko-fi.com/jantennert
 
