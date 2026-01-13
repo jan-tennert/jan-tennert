@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jan, 18y</h1>
-<h3 align="center">A programmer from Germany</h3>
+<h1 align="center">Hi 👋, I'm Jan, 19y</h1>
+<h3 align="center">A programmer from Germany, Munich</h3>
 
 - 🔭 I’m currently working on [supabase-kt](https://github.com/supabase-community/supabase-kt)
 
