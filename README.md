@@ -12,7 +12,15 @@
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jan-tennert&show_icons=true&locale=en&layout=compact&theme=transparent" alt="jan-tennert" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jan-tennert&show_icons=true&locale=en&theme=transparent" alt="jan-tennert" /></p>
+<img src="https://github-readme-stats.shion.dev/api?username=jan-tennert&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=jan-tennert&theme=dark&hide_border=false" />
+<br/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jan-tennert&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
+</div>
 
